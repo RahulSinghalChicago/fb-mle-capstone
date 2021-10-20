@@ -6,5 +6,6 @@ Repo holds code for the FourthBrain Machine Learning Engineer capstone project
 
 **Contributors** 
 * [Mario Carrillo](https://www.linkedin.com/in/mariojaviercarrillo/)
-* [Zachary Tripp](https://www.linkedin.com/in/zachary-tripp/)
 * [Rahul Singhal](https://www.linkedin.com/in/rahulsinghalchicago/)
+* [Zachary Tripp](https://www.linkedin.com/in/zachary-tripp/)
+
